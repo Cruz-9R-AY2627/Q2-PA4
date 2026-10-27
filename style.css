@@ -15,3 +15,20 @@
     background-size: cover;
     position: relative;
 }
+
+.au {
+    text-align: center;
+}
+
+.pr {
+    margin-left: 30px;
+}
+
+.av {
+    margin-left: 30px;
+}
+
+.footer-text {
+    color:white;
+    text-align: center;
+}
